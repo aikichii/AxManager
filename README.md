@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/0ae45f0b-a097-4be0-b74d-48beee2d602b" />
 # Axeron Manager (Proof of Concept)
 
 > **Axeron Manager (AxManager)** is a Proof of Concept (POC) for a self-created environment on Android that leverages ADB permissions to provide system-level control. This project explores the idea of creating a persistent, independent ADB-based execution layer within the system.
